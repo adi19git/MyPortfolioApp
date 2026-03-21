@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="full_name">ADITYA KUMAR</string>
+    <string name="role">Future Data Engineer</string>
+    <string name="portfolio_button">CLICK ME TO SEE MY PORTFOLIO</string>
+    <string name="profile_image">Profile image of Aditya Kumar</string>
+    <string name="linkedin_icon">LinkedIn icon</string>
+    <string name="instagram_icon">Instagram icon</string>
+    <string name="github_icon">GitHub icon</string>
+    <string name="bio">
+        I am a Data Science student with a keen interest in turning data into actionable insights.
+        My work focuses on machine learning, data visualization, and predictive analytics.
+        I have worked on projects involving real world datasets and enjoy using Python, SQL, and tools
+        like Pandas, NumPy, and Matplotlib to uncover patterns and tell compelling data stories.
+    </string>
+</resources>
